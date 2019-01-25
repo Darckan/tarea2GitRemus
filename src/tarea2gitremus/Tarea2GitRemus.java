@@ -16,6 +16,8 @@ public class Tarea2GitRemus {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Jugador Pepe = new Jugador("Pepe", 10, 20);
     }
     
 }
