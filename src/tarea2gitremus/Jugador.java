@@ -10,5 +10,8 @@ package tarea2gitremus;
  * @author remus
  */
 public class Jugador {
-    
+    public String nombre;
+    public int votos;	
+    public int id;
+
 }
